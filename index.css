@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+
+.head_container{
+background-color: brown;
+display: flex;
+justify-content: center;
+padding: 10px;
+}
+
